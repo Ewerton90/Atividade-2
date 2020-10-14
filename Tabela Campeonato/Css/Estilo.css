@@ -1,0 +1,35 @@
+body{
+	font-family: Arial;
+}
+
+td{
+	font-size: 14px;
+	color: #666666;
+}
+
+.TituloC{
+	font-size: 13px;
+}
+
+.Times{
+	font-size: 14px;
+	color: #666666;
+}
+
+.Pontos{
+	font-size: 14px;
+	background-color: #F7F7F7;
+}
+
+#LegendaClassificação{
+	font-size: 10px;
+	color:;
+}
+
+#Divisão{
+	background-color: #DDDDDD;
+}
+
+#Divisão2{
+	background-color: #CCCCCC;
+}
