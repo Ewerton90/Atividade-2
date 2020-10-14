@@ -1,0 +1,59 @@
+body{
+	font-family: Arial;
+	font-size: 14px;
+}
+
+#foracontainer{
+	background-color: #EEEEEE;
+}
+
+.container{
+	background-color: #FFFFFF;
+}
+
+hr{
+	color: #BBBBBB;
+}
+
+#logotipo{
+	margin: 5px 0px 2px;
+}
+
+#corpo{
+	margin: 5px;
+}
+
+.labels{
+	padding: 7px;
+	margin: 0px 0px 0xp;
+	float: right;
+	font-weight: bold;
+}
+
+.inputs{
+	font-size: 14px;
+}
+
+.links{
+	color: #337AB7;
+}
+
+#btn{
+	font-size: 14px;
+	float: right;
+	background-color: #32A041;
+}
+
+#rodape{
+	margin: 10px;
+}
+
+#rodapeesquerda{
+	margin: 0px 0px 2px;
+}
+
+#rodapedireita{
+	margin: 0px 0px 2px;
+	float: right;
+}
+

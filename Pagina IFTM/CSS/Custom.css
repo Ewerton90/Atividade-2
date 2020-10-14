@@ -1,0 +1,24 @@
+body{
+	font-family: Arial;
+	font-size: 14px;
+	
+}
+
+.inicio{
+	margin: 5px; 0px; 2px;
+	
+}
+
+.corpo{
+	margin: 5px;
+}
+
+.rodape{
+	margin: 10px;
+}
+
+#labels{
+	padding: 7px;
+	margin: 0px;
+	color: black;
+}
